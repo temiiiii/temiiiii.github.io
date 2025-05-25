@@ -1,14 +1,8 @@
-# Ajayi Temitayo's Professional Resume
+# Professional Resume Website
+A mobile-friendly resume hosted on GitHub Pages.  
+**Live Link**: [https://temiiili.github.io](https://temiiili.github.io)  
 
-![Website Preview](https://temiiiii.github.io/screenshot.png) *(Upload a screenshot later)*
-
-## 🚀 Features
-- Clean, mobile-friendly design
-- Sections: Skills, Experience, Education
-- Hosted on GitHub Pages
-
-## 🔗 Live Website
-**[View My Resume](https://temiiiii.github.io)**
-
-## 📜 License
-MIT
+## Features
+- Responsive design  
+- Sections: Skills, Experience, Education  
+- Built with HTML/CSS  
